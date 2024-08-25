@@ -13,4 +13,5 @@ The code is designed to be easily deployable on any system, using relative paths
 
 
 <h1>Predict Page</h1>
-![predsize](https://github.com/user-attachments/assets/d1665bf5-94a5-4572-bb46-1e9b7aa9b67f)
+
+![predsize](https://github.com/user-attachments/assets/822f814c-5d86-40e2-9043-cc5eb89df575)
