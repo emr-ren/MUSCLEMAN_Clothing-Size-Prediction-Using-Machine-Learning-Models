@@ -8,7 +8,8 @@ Real-time size prediction based on model selection.
 The code is designed to be easily deployable on any system, using relative paths to access the dataset, making it convenient for users to run the project on different computers without modifying the file path.
 
 <h1>Home Page</h1>
-![home](https://github.com/user-attachments/assets/7e9fa81f-0fc9-4524-9d20-9f4a09e0d9a7)
+
+![homepage](https://github.com/user-attachments/assets/2bc58ab3-c983-4772-ae52-30c02ed15d3a)
 
 
 <h1>Predict Page</h1>
